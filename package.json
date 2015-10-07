@@ -1,0 +1,22 @@
+{
+  "name": "hubrick-flow",
+  "version": "1.0.0",
+  "description": "Flow runner for hubrick code challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/babel/bin/babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattgstevens/hubrick-flow.git"
+  },
+  "author": "mattgstevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattgstevens/hubrick-flow/issues"
+  },
+  "homepage": "https://github.com/mattgstevens/hubrick-flow",
+  "dependencies": {
+    "babel": "^5.2.17"
+  }
+}
